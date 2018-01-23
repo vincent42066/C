@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1510304230 source:/home/vincent/Documents/hello/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp3.h"
+
+1510304239 /home/vincent/Documents/hello/tp3.h
+
+1510303135 /home/vincent/Documents/hello/tp.c
+	<stdio.h>
+	<stdlib.h>
+	"tp3.h"
+
+1510304078 source:/home/vincent/Documents/hello/tp3.c
+	<stdio.h>
+	<stdlib.h>
+	"tp3.h"
+
+1510395855 source:/media/vincent/Data/Ubuntu/Documents/LanguageC/hello/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp3.h"
+
+1510402894 /media/vincent/Data/Ubuntu/Documents/LanguageC/hello/tp3.h
+
+1510402894 source:/media/vincent/Data/Ubuntu/Documents/LanguageC/hello/tp3.c
+	<stdio.h>
+	<stdlib.h>
+	"tp3.h"
+
+1510395855 /media/vincent/Data/Ubuntu/Documents/LanguageC/hello/tp3.c
+	<stdio.h>
+	<stdlib.h>
+	"tp3.h"
+

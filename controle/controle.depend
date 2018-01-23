@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510564528 source:/media/vincent/Data/Ubuntu/Documents/LanguageC/controle/main.c
+	<stdio.h>
+	<stdlib.h>
+
